@@ -1,0 +1,34 @@
+h1{
+    color: orangered;
+    font-size:50px;
+    font-weight: bold;
+    font-family: "impact";
+    text-align: center;
+    background-color: darkslategrey;
+}
+
+body{
+    background-image: url("../images/image.jfif");
+    background-repeat: repeat;
+    background-attachment: fixed;
+    background-position: bottom right;
+}
+
+h2{
+    color: darkblue;
+    font-weight: bold;
+    font-family: "impact";
+    text-align: center;
+    background-color: yellow;
+}
+
+h3{
+    color: red;
+    font-weight: bold;
+    font-family: "impact";
+}
+p{
+    color: ghostwhite;
+    font-weight: bold;
+    font-family: "impact";
+}
